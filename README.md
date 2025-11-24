@@ -52,7 +52,7 @@ npm run build
 Add your screenshots:
 
 ```md
-![Project Preview](./preview.png)
+![Project Preview](preview.png)
 ```
 
 ---
