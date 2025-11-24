@@ -49,11 +49,8 @@ npm run build
 
 ## 🖼️ Preview
 
-Add your screenshots:
+![Car Website preview](preview.png)
 
-```md
-![Preview](preview.png)
-```
 
 ---
 
