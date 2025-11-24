@@ -52,7 +52,7 @@ npm run build
 Add your screenshots:
 
 ```md
-![Car Website Preview](preview.png)
+![Preview](preview.png)
 ```
 
 ---
