@@ -55,8 +55,6 @@ Add your screenshots:
 ![Project Preview](./preview.png)
 ```
 
-Or upload a GIF demo.
-
 ---
 
 ## 🧩 Components
