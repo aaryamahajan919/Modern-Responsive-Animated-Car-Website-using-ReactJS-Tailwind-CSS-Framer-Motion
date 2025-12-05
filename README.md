@@ -1,109 +1,95 @@
-# 🚗 Modern Responsive Animated Car Website  
-### Built with **React.js**, **Tailwind CSS**, and **Framer Motion**
+🛒 E-Shophere E-commerce Website
+Built with React.js, Tailwind CSS, Firebase, and Stripe
 
-A visually engaging, fully responsive, and animation-rich car showcase website designed with modern frontend technologies. This project highlights smooth motion effects, interactive UI elements, and a clean architectural structure — perfect for portfolios and real-world product websites.
+A modern, responsive, and user-friendly e-commerce website designed to deliver an excellent shopping experience. It incorporates secure authentication, product management, and seamless payment gateway integration, making it an ideal solution for any online store.
 
----
-
-## 📁 Project Structure
-```
-Modern-Responsive-Animated-Car-Website/
+📁 Project Structure
+E-Shophere-E-commerce-Website/
 │── public/
 │── src/
 │   ├── components/
-│   ├── sections/
+│   ├── pages/
 │   ├── assets/
 │   ├── App.jsx
 │   ├── main.jsx
 │── package.json
 │── tailwind.config.js
+│── firebase-config.js
 │── README.md
-```
 
----
+🚀 Getting Started
+1️⃣ Clone the repository
+git clone https://github.com/aaryamahajan919/E-Shophere-E-commerce-website.git
+cd E-Shophere-E-commerce-website
 
-## 🚀 Getting Started
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/your-username/Modern-Responsive-Animated-Car-Website.git
-cd Modern-Responsive-Animated-Car-Website
-```
-
-### 2️⃣ Install dependencies
-```bash
+2️⃣ Install dependencies
 npm install
-```
 
-### 3️⃣ Run development server
-```bash
+3️⃣ Set up Firebase
+
+Create a Firebase project at Firebase Console
+.
+
+Set up Firebase Authentication, Firestore, and Firebase Storage.
+
+Replace the configuration in firebase-config.js with your Firebase project credentials.
+
+4️⃣ Set up Stripe
+
+Create a Stripe account at Stripe
+.
+
+Add your Stripe API keys to the .env file.
+
+5️⃣ Run development server
 npm run dev
-```
 
-### 4️⃣ Build production files
-```bash
+6️⃣ Build production files
 npm run build
-```
 
----
+🖼️ Preview
 
-## 🖼️ Preview
-
-![Car Website preview](preview.png)
-
-
----
-
-## 🧩 Components
-
-| Component        | Description |
-|------------------|-------------|
-| **Navbar**       | Animated header with smooth transitions |
-| **Hero Section** | Car intro with Framer Motion effects |
-| **Showcase Cards** | Animated car feature grid |
-| **Footer**       | Clean responsive footer |
-
----
-
-## 📦 Deployment
-
-### ✅ Vercel
-```bash
+🧩 Components
+Component	Description
+Navbar	Responsive header with cart and authentication options
+Home Page	Featured products and categories carousel
+Product Page	Product details with dynamic content and add-to-cart functionality
+Cart	User's shopping cart with real-time updates
+Checkout	Stripe integration for secure payments
+Footer	Clean and responsive footer with links
+📦 Deployment
+✅ Vercel
 vercel deploy
-```
 
-### ✅ Netlify  
-Drag and drop the **dist** folder into Netlify dashboard.
+✅ Netlify
 
-### ✅ GitHub Pages
-```bash
+Drag and drop the dist folder into Netlify dashboard.
+
+✅ GitHub Pages
 npm run build
 git subtree push --prefix dist origin gh-pages
-```
 
-### ✅ AWS S3 + CloudFront  
-1. Build project  
-2. Upload **dist** folder to S3  
-3. Enable static site hosting  
-4. Connect CloudFront for CDN  
+✅ AWS S3 + CloudFront
 
----
+Build project
 
-## 🤝 Contributing
+Upload dist folder to S3
 
-Contributions and suggestions are welcome!  
+Enable static site hosting
+
+Connect CloudFront for CDN
+
+🤝 Contributing
+
+Contributions and suggestions are welcome!
 Feel free to open an issue or a pull request.
 
----
-
-## ⭐ Support
+⭐ Support
 
 If this project helped you, please ⭐ star the repository!
 
----
+📧 Contact
 
-## 📧 Contact
-
-**Aarya Mahajan**  
-Frontend Developer | React.js | Cloud | UI/UX  
+Aarya Mahajan
+Frontend Developer | React.js | Cloud | UI/UX
 📩 Contact me on GitHub or LinkedIn
