@@ -71,26 +71,6 @@ A sleek, modern, and animation-rich website built with React, Tailwind CSS, and 
 
 ---
 
-## 📦 Deployment
-
-### Vercel (Recommended)
-
-- Import GitHub repo  
-- Auto-deploy on each commit  
-- Free, fast, and perfect for React apps  
-
-### GitHub Pages
-
-    npm run build
-    git subtree push --prefix dist origin gh-pages
-
-### Netlify
-
-- Drag & drop the `dist/` folder  
-- or connect GitHub for automatic deployments  
-
----
-
 ## 🤝 Contributing
 Feel free to open issues or submit pull requests.
 
@@ -99,9 +79,3 @@ Feel free to open issues or submit pull requests.
 ## ⭐ Support
 If you like this project, please ⭐ star the repository!
 
----
-
-## 📧 Contact
-**Aarya Mahajan**  
-Frontend Developer  
-GitHub | LinkedIn
