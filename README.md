@@ -26,7 +26,7 @@ A sleek, modern, and animation-rich website built with React, Tailwind CSS, and 
 
 ### 1️⃣ Clone the repository
 
-    git clone <your-repository-url>
+    git clone https://github.com/aaryamahajan919/Modern-Responsive-Animated-Car-Website-using-ReactJS-Tailwind-CSS-Framer-Motion
     cd Modern-Responsive-Animated-Website
 
 ### 2️⃣ Install dependencies
