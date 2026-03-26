@@ -27,7 +27,7 @@ A visually stunning, fully responsive, and animated car showcase website built u
 ---
 
 ## 📂 Project Structure
-
+```
 Modern-Responsive-Animated-Car-Website/
 │
 ├── public/
@@ -55,7 +55,7 @@ Modern-Responsive-Animated-Car-Website/
 ├── postcss.config.js
 └── README.md
 
----
+```
 
 ## 🚀 Getting Started
 
@@ -82,35 +82,11 @@ npm start
 
 ---
 
-## 🎬 Framer Motion Example
-
-import { motion } from "framer-motion";
-
-<motion.div
-  initial={{ opacity: 0, y: 50 }}
-  animate={{ opacity: 1, y: 0 }}
-  transition={{ duration: 0.5 }}
->
-  Animated Content
-</motion.div>
-
----
-
-## 🎨 Tailwind CSS Example
-
-<div className="bg-black text-white p-6 rounded-2xl shadow-lg">
-  Car Card UI
-</div>
-
----
-
 ## 📸 Screenshots
 
 Add your screenshots in the public/assets folder and reference them below:
 
-![Screenshot 1](public/assets/screenshot1.png)  
-![Screenshot 2](public/assets/screenshot2.png)  
-![Screenshot 3](public/assets/screenshot3.png)  
+![Car 1](public/assets/car1.png)  
 
 ---
 
