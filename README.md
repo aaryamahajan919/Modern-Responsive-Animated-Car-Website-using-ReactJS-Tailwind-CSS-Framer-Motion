@@ -86,7 +86,7 @@ npm start
 
 Add your screenshots in the public/assets folder and reference them below:
 
-![car 1](src/assets/car1.png)  
+![picture preview](src/assets/car1.png)  
 
 ---
 
