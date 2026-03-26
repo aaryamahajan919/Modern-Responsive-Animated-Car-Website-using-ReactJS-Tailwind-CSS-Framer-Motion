@@ -31,12 +31,13 @@ A visually stunning, fully responsive, and animated car showcase website built u
 Modern-Responsive-Animated-Car-Website/
 │
 ├── public/
-│   └── assets/
-│       ├── car1.png
-│       ├── car2.png
-│       └── ...
+│   ├── vite.svg
 │
 ├── src/
+│   └── assets/
+│       ├── car1.png
+│       ├── car.png
+│       └── ...
 │   ├── components/
 │   │   ├── Navbar.jsx
 │   │   ├── Hero.jsx
