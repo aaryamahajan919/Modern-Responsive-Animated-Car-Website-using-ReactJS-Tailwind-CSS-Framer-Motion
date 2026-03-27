@@ -136,7 +136,7 @@ This project is licensed under the MIT License.
 ## 💡 Author
 
 **Aarya Mahajan**  
-Frontend Developer | Cloud Enthusiast | AI Explorer  
+Software Developer
 
 ---
 
